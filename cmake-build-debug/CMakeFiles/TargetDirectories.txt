@@ -1,0 +1,3 @@
+/Users/alisarudovskaa/ekz2sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alisarudovskaa/ekz2sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alisarudovskaa/ekz2sem/cmake-build-debug/CMakeFiles/ekz2sem.dir
